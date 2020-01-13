@@ -661,6 +661,11 @@ section#contact :-ms-input-placeholder {
   font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
+.footer img {
+  width: 120px;
+  height: 50px;
+}
+
 ul.social-buttons {
   margin-bottom: 0;
 }
